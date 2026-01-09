@@ -1,4 +1,4 @@
-{
+return {
    ["Wood"]={
       ["itemType"]="object",
       ["cost"]=5,
